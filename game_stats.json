@@ -1,0 +1,14 @@
+{
+  "games_played": 1,
+  "x_wins": 1,
+  "o_wins": 0,
+  "draws": 0,
+  "history": [
+    {
+      "date": "2026-02-06T23:33:41.367062",
+      "winner": "X",
+      "player_x": "Player X",
+      "player_o": "AI"
+    }
+  ]
+}

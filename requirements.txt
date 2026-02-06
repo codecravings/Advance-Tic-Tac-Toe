@@ -1,0 +1,9 @@
+# Advanced Tic Tac Toe Requirements
+# Install with: pip install -r requirements.txt
+
+# Optional: For sound effects support
+# Uncomment the line below if you want sound effects
+# pygame>=2.5.0
+
+# No required dependencies - works with standard library only!
+# Python 3.7+ required
