@@ -123,7 +123,7 @@ This project is licensed under the MIT License.
 
 ## 🙏 Credits
 
-Created by [codecravings](https://github.com/codecravings)
+Created by kimi code yeah saying that openly(wanted to test it out duh)
 
 ---
 
